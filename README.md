@@ -5,6 +5,6 @@ Coded entirely in Python.
 TraceV2 is a recreation of the original older TraceV1.
 
 -- // Developers // --
-UrLocalBruh (@urlocalbru on discord)
+JasperTheSillyy (@jasperthesillyy on discord.)
 
 Please contact me on discord to report any bugs.

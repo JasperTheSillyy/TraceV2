@@ -1,2 +1,0 @@
-TraceV2 1.0.1 and up are no longer one file :(
-Please, do not rename or move any files.

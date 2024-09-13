@@ -1,10 +1,14 @@
--- // TraceV2 // --
+# TRACEV2 - Geolocator and MultiTool for windows.
 
-TraceV2 is an open-source geolocator and IP tool for windows,
-Coded entirely in Python.
-TraceV2 is a recreation of the original older TraceV1.
+TraceV2 is a completely open source, written in python multi-tool / geolocator made for windows.
 
--- // Developers // --
-UrLocalBruh (@urlocalbru on discord)
+![image](./preview-1.0.2.png)
 
-Please contact me on discord to report any bugs.
+# CHANGELOG - 1.0.2
+- Removed the auto-updating system, because I found it annoying.
+- Added a new module. (Rapid GET/POST request sending)
+- Added colors to the console.
+
+This was made completely by a solo developer, so support will be appreciated.
+
+If you find any bugs, or in general want to contact me, text me on discord: Jasper @jasperthesillyy

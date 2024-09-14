@@ -28,7 +28,7 @@ welcomemessage = f"""
 ----------------------------------------------------------------------
 //////////////////////////////////////////////////////////////////////
 
-{Fore.RED}TRACEV2{Fore.WHITE} RELEASE 1.1.3
+{Fore.RED}TRACEV2{Fore.WHITE} RELEASE 1.1.2
 Windows IP geolocator and multi-tool.
 Improved TraceV1, new and improved features.
 Coded by {Fore.RED}@jasperthesillyy{Fore.WHITE} on discord.
@@ -46,7 +46,7 @@ Type "clear" to clear the console.
 AllCommands = f"""
 ////////////////////////////
 ----------------------------
-COMMANDS - {Fore.RED}TraceV2 1.1.3 {Fore.WHITE}
+COMMANDS - {Fore.RED}TraceV2 1.1.2 {Fore.WHITE}
 ----------------------------
 ////////////////////////////
 
@@ -68,7 +68,7 @@ changelog - Displays the new version changelog. (ver 1.0.1+)
 changelog = """
 /////////////////////////////////////////////////////
 -----------------------------------------------------
-CHANGELOG - TraceV2 1.1.3
+CHANGELOG - TraceV2 1.1.2
 -----------------------------------------------------
 /////////////////////////////////////////////////////
 

@@ -4,10 +4,9 @@ TraceV2 is a completely open source, written in python multi-tool / geolocator m
 
 ![image](./preview-1.1.2.png)
 
-# CHANGELOG - 1.0.2
-- Removed the auto-updating system, because I found it annoying.
-- Added a new module. (Rapid GET/POST request sending)
-- Added colors to the console.
+# CHANGELOG - 1.1.2
+- Added a packet sniffing tool.
+- Added a port scanning tool.
 
 This was made completely by a solo developer, so support will be appreciated.
 

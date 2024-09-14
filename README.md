@@ -2,7 +2,7 @@
 
 TraceV2 is a completely open source, written in python multi-tool / geolocator made for windows.
 
-![image](./preview-1.0.2.png)
+![image](./preview-1.1.2.png)
 
 # CHANGELOG - 1.0.2
 - Removed the auto-updating system, because I found it annoying.
